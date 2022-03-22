@@ -1,3 +1,3 @@
 - Hi, I’m @lapidary-master
 - I’m interested in HTML, CSS, Python, Discord & General Server Management
-- @lapidary.master#1603 on Discord
+- @lapidary.master#0101 on Discord
