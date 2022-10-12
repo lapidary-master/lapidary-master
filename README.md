@@ -2,6 +2,9 @@
 
 *Technologies I'm interested in;*
 - [HTML](https://html.spec.whatwg.org/)
+	- **[Tauri](https://tauri.app/v1/guides/)**
+	- *[Apache Cordova](https://cordova.apache.org/docs/en/latest/)*
+	- [Electron](https://www.electronjs.org/docs/latest)
 - [Python](https://docs.python.org/3)
 - [Discord](https://discord.com/developers)
   - [hikari](https://github.com/hikari-py/hikari)
